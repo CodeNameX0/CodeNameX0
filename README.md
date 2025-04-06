@@ -1,0 +1,3 @@
+- Hi, I’m @CodeNameX0.
+- I’m interested in coding, chess, and astronomy.
+- I’m currently learning Javascript.
