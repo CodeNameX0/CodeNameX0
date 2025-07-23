@@ -9,8 +9,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNameX0&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CodeNameX0&theme=tokyonight)
-
 </div>
 
 ## 🚀 Projects
